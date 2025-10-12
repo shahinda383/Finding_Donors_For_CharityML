@@ -2,6 +2,8 @@
 
 Transforming Income Prediction into an Intelligent Donation Recommendation System
 
+---
+
 
 📑 Table of Contents
 
@@ -315,5 +317,6 @@ Special thanks to the open-source community & NGO partners contributing to AI fo
 🪙 License
 
 Licensed under the MIT License — free for educational and non-commercial use.
+
 
 
