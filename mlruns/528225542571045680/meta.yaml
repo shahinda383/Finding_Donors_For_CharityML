@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/Khaled/Depi_Amit_A1_BNS3/Depi_Amit_A1_BNS3/Finding_Donors/mlruns/528225542571045680
+creation_time: 1760555630662
+experiment_id: '528225542571045680'
+last_update_time: 1760555630662
+lifecycle_stage: active
+name: CharityML_Donor_Classifier

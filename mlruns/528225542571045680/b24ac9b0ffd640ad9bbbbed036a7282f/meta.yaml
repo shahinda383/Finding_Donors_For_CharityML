@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Khaled/Depi_Amit_A1_BNS3/Depi_Amit_A1_BNS3/Finding_Donors/mlruns/528225542571045680/b24ac9b0ffd640ad9bbbbed036a7282f/artifacts
+end_time: 1760556429833
+entry_point_name: ''
+experiment_id: '528225542571045680'
+lifecycle_stage: active
+run_id: b24ac9b0ffd640ad9bbbbed036a7282f
+run_name: RandomForest_v1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760556416922
+status: 4
+tags: []
+user_id: Khaled

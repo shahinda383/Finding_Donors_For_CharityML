@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Khaled/Depi_Amit_A1_BNS3/Depi_Amit_A1_BNS3/Finding_Donors/mlruns/528225542571045680/models/m-aa25b8f252194018af06b30e58285d65/artifacts
+creation_timestamp: 1760557193459
+experiment_id: '528225542571045680'
+last_updated_timestamp: 1760557264708
+model_id: m-aa25b8f252194018af06b30e58285d65
+model_type: null
+name: model
+source_run_id: 123baf58270342c491a81ba502a7170b
+status: 2
+status_message: null

@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/Khaled/Depi_Amit_A1_BNS3/Depi_Amit_A1_BNS3/Finding_Donors/mlruns/528225542571045680/models/m-aa25b8f252194018af06b30e58285d65/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.2
+mlflow_version: 3.4.0
+model_id: m-aa25b8f252194018af06b30e58285d65
+model_size_bytes: 7055159
+model_uuid: m-aa25b8f252194018af06b30e58285d65
+prompts: null
+run_id: 123baf58270342c491a81ba502a7170b
+utc_time_created: '2025-10-15 19:39:54.573994'
